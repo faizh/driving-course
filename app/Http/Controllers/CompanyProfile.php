@@ -14,7 +14,7 @@ class CompanyProfile extends Controller
 
     public function schedule() : View {
         $this->menu = "schedule";
-        return view('company-profile/contents/home', ['menu' => $this->menu ]);
+        return view('company-profile/contents/schedules', ['menu' => $this->menu ]);
     }
 
     public function package() : View {
@@ -22,9 +22,9 @@ class CompanyProfile extends Controller
         return view('company-profile/contents/packages', ['menu' => $this->menu ]);
     }
 
-    public function trainer() : View {
-        $this->menu = "trainer";
-        return view('company-profile/contents/home', ['menu' => $this->menu ]);
+    public function teams() : View {
+        $this->menu = "teams";
+        return view('company-profile/contents/teams', ['menu' => $this->menu ]);
     }
 
     public function vehicle() : View {

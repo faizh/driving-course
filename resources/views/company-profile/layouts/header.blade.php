@@ -28,7 +28,7 @@
               <a class="nav-link @if ($menu == 'schedule') active @endif" aria-current="page" href="/schedule">Schedule</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link @if ($menu == 'trainer') active @endif" aria-current="page" href="/trainer">Trainer</a>
+              <a class="nav-link @if ($menu == 'teams') active @endif" aria-current="page" href="/teams">Teams</a>
             </li>
             <li class="nav-item">
               <a class="nav-link @if ($menu == 'vehicle') active @endif" aria-current="page" href="/vehicle">Vehicle</a>
