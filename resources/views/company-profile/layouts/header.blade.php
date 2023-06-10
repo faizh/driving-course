@@ -19,22 +19,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link @if ($menu == 'home') active @endif" aria-current="page" href="/">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Schedule</a>
+                <a class="nav-link @if ($menu == 'package') active @endif" aria-current="page" href="/package">Package</a>
+              </li>
+            <li class="nav-item">
+              <a class="nav-link @if ($menu == 'schedule') active @endif" aria-current="page" href="/schedule">Schedule</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Package</a>
+              <a class="nav-link @if ($menu == 'trainer') active @endif" aria-current="page" href="/trainer">Trainer</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Trainer</a>
+              <a class="nav-link @if ($menu == 'vehicle') active @endif" aria-current="page" href="/vehicle">Vehicle</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Vehicle</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
+              <a class="nav-link @if ($menu == 'contact') active @endif" aria-current="page" href="/contact_us">Contact Us</a>
             </li>
           </ul>
         </div>

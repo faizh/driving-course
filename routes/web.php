@@ -15,3 +15,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [CompanyProfile::class, 'index']);
+Route::get('/schedule', [CompanyProfile::class, 'schedule']);
+Route::get('/package', [CompanyProfile::class, 'package']);
+Route::get('/trainer', [CompanyProfile::class, 'trainer']);
+Route::get('/vehicle', [CompanyProfile::class, 'vehicle']);
+Route::get('/contact_us', [CompanyProfile::class, 'contactUs']);

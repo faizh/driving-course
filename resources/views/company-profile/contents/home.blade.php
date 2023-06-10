@@ -10,7 +10,7 @@
           <h3 data-aos="fade-up" data-aos-delay="200">Join now and enjoy a fun learning experience guided by experienced instructors</h3>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
-              <a href="#job" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+              <a href="/package" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                 <span>More info</span>
               </a>
             </div>
