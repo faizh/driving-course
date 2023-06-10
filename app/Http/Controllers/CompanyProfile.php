@@ -29,7 +29,7 @@ class CompanyProfile extends Controller
 
     public function vehicle() : View {
         $this->menu = "vehicle";
-        return view('company-profile/contents/home', ['menu' => $this->menu ]);
+        return view('company-profile/contents/vehicles', ['menu' => $this->menu ]);
     }
 
     public function contactUs() : View {

@@ -22,9 +22,9 @@
                       <p class="card-text">John specializes in defensive driving techniques and advanced vehicle control, ensuring that learners are equipped to handle any situation on the road.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                      <li class="list-group-item">Experience: 10+ years of professional driving instruction</li>
-                      <li class="list-group-item">Certifications: Certified Driving Instructor (CDI)</li>
-                      <li class="list-group-item">Specialization: Defensive driving techniques, advanced vehicle control</li>
+                      <li class="list-group-item"><b>Experience</b> <br /> 10+ years of professional driving instruction</li>
+                      <li class="list-group-item"><b>Certifications</b> <br /> Certified Driving Instructor (CDI)</li>
+                      <li class="list-group-item"><b>Specialization</b> <br /> Defensive driving techniques, advanced vehicle control</li>
                     </ul>
                   </div>
             </div>
@@ -38,9 +38,9 @@
                       <p class="card-text">Sarah's dedication to helping nervous drivers overcome their fears has made her a sought-after instructor.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                      <li class="list-group-item">Experience: 7 years of teaching driving skills</li>
-                      <li class="list-group-item">Certifications: Licensed Driving Instructor (LDI)</li>
-                      <li class="list-group-item">Specialization: Nervous driver training, parallel parking mastery</li>
+                      <li class="list-group-item"><b>Experience</b> <br /> 7 years of teaching driving skills</li>
+                      <li class="list-group-item"><b>Certifications</b> <br /> Licensed Driving Instructor (LDI)</li>
+                      <li class="list-group-item"><b>Specialization</b> <br /> Nervous driver training, parallel parking mastery</li>
                     </ul>
                   </div>
             </div>
@@ -54,9 +54,9 @@
                       <p class="card-text">Michael is a skilled driving instructor with a focus on hazard perception and emergency response.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                      <li class="list-group-item">Experience: 5 years of teaching driving techniques</li>
-                      <li class="list-group-item">Certifications: Defensive Driving Specialist (DDS)</li>
-                      <li class="list-group-item">Specialization: Hazard perception, emergency response</li>
+                      <li class="list-group-item"><b>Experience</b> <br /> 5 years of teaching driving techniques</li>
+                      <li class="list-group-item"><b>Certifications</b> <br /> Defensive Driving Specialist (DDS)</li>
+                      <li class="list-group-item"><b>Specialization</b> <br /> Hazard perception, emergency response</li>
                     </ul>
                   </div>
             </div>
@@ -70,9 +70,9 @@
                       <p class="card-text">David is an experienced driving instructor with a focus on night driving and highway navigation.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                      <li class="list-group-item">Experience: 8 years of teaching driving skills</li>
-                      <li class="list-group-item">Certifications: Advanced Driving Instructor (ADI)</li>
-                      <li class="list-group-item">Specialization: Night driving, highway navigation</li>
+                      <li class="list-group-item"><b>Experience</b> <br /> 8 years of teaching driving skills</li>
+                      <li class="list-group-item"><b>Certifications</b> <br /> Advanced Driving Instructor (ADI)</li>
+                      <li class="list-group-item"><b>Specialization</b> <br /> Night driving, highway navigation</li>
                     </ul>
                   </div>
             </div>
