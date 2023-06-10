@@ -19,7 +19,7 @@ class CompanyProfile extends Controller
 
     public function package() : View {
         $this->menu = "package";
-        return view('company-profile/contents/home', ['menu' => $this->menu ]);
+        return view('company-profile/contents/packages', ['menu' => $this->menu ]);
     }
 
     public function trainer() : View {
