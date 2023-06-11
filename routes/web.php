@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CompanyProfile;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [CompanyProfile::class, 'index']);
+Route::get('/schedule', [CompanyProfile::class, 'schedule']);
+Route::get('/package', [CompanyProfile::class, 'package']);
+Route::get('/teams', [CompanyProfile::class, 'teams']);
+Route::get('/vehicle', [CompanyProfile::class, 'vehicle']);
+Route::get('/contact_us', [CompanyProfile::class, 'contactUs']);
