@@ -122,3 +122,8 @@ a {
   .vehicles .card h6 {
     font-size: 15px;
   }
+
+  .contacts span {
+    margin-left: 10px;
+    vertical-align: middle;
+  }

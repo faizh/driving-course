@@ -34,6 +34,6 @@ class CompanyProfile extends Controller
 
     public function contactUs() : View {
         $this->menu = "contact";
-        return view('company-profile/contents/home', ['menu' => $this->menu ]);
+        return view('company-profile/contents/contact_us', ['menu' => $this->menu ]);
     }
 }

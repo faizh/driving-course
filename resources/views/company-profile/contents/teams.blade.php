@@ -83,7 +83,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Faiz Hermawan</h5>
                       <h6 class="card-subtitle mb-2 text-body-secondary">Founder and CEO</h6>
-                      <p class="card-text">Faiz Hermawan is the visionary founder and CEO of our driving car business. With a deep passion for automobiles and a strong entrepreneurial spirit, James has dedicated his career to revolutionizing the driving experience. He possesses a unique blend of technical expertise and business acumen, which has been instrumental in shaping the company's growth and success.</p>
+                      <p class="card-text">Faiz Hermawan is the visionary founder and CEO of our driving car business.</p>  <p>With a deep passion for automobiles and a strong entrepreneurial spirit, Faiz has dedicated his career to revolutionizing the driving experience.</p> <p>He possesses a unique blend of technical expertise and business acumen, which has been instrumental in shaping the company's growth and success.</p>
                     </div>
                   </div>
             </div>
